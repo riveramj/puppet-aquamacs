@@ -6,6 +6,6 @@
 class aquamacs {
   package { 'Aquamacs':
     provider => 'appdmg',
-    source   => 'http://braeburn.aquamacs.org/releases/Aquamacs-Emacs-2.5.dmg',
+    source   => 'http://aquamacs.org/download.shtml',
   }
 }
